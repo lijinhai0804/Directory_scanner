@@ -1,0 +1,2 @@
+directory_scanner.py 是源代码
+directory_scanner.exe 是双击可以直接运行的可执行文件
